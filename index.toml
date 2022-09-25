@@ -449,11 +449,6 @@ hash = "491f03fcc7d589345865f07ea90ffa4a2eb0c20b3019bfda2d799077ae2fc872"
 metafile = true
 
 [[files]]
-file = "mods/gardenofglass.pw.toml"
-hash = "17c3e1453e0d5f2c573dbedc630be74a10e5b909ce5fa0587b719d68e344b40e"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "7c2ae545f2d7bb0c2b4de7c1132a1afd8afafbe21d8e714d458199cda1f776a7"
 metafile = true
