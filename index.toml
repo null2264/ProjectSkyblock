@@ -1,0 +1,26 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cobblegen.pw.toml"
+hash = "fc7c4a49e3995a7d2ac4c41261670de8521dad745a21e4d9ce7f75278ceb90a6"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7c2ae545f2d7bb0c2b4de7c1132a1afd8afafbe21d8e714d458199cda1f776a7"
+metafile = true
+
+[[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "21da451438c4b95811be685f967b800f0672ac0096bf9a4fc80e08db52902005"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-creator.pw.toml"
+hash = "9383a5d3de2a6554271852b71a8c64e5f11105260425538dfa8be0a61e9e0360"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true

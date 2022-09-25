@@ -1,0 +1,74 @@
+{
+	id: "4200BDAB4C987F64"
+	group: ""
+	order_index: 0
+	filename: "getting_started"
+	title: "Getting Started"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Getting Started"
+			x: 0.0d
+			y: 0.0d
+			size: 1.5d
+			id: "7CFD889FBB1F6FDF"
+			tasks: [{
+				id: "3E5B56E58969F941"
+				type: "item"
+				item: "minecraft:oak_log"
+			}]
+			rewards: [{
+				id: "0888A55FBD8F0873"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			title: "Cobblestone"
+			x: -2.0d
+			y: 0.0d
+			description: [
+				"Get a cobblestone by right click on a dirt/grass block to get pebbles, then craft it into a cobblestone"
+				""
+			]
+			dependencies: ["7CFD889FBB1F6FDF"]
+			id: "4033B466FF30CC70"
+			tasks: [
+				{
+					id: "57B22E43CC532212"
+					type: "item"
+					item: "botania:pebble"
+					count: 4L
+				}
+				{
+					id: "76731A45F184D893"
+					type: "item"
+					item: "minecraft:cobblestone"
+				}
+			]
+			rewards: [{
+				id: "080F5B80F4024594"
+				type: "xp"
+				xp: 5
+			}]
+		}
+		{
+			title: "Early Flight"
+			x: -5.5d
+			y: -2.0d
+			id: "5E09D0B7ED9BA8C0"
+			tasks: [{
+				id: "130490A19F1D97A0"
+				type: "item"
+				item: {
+					id: "itemfilters:tag"
+					Count: 1b
+					tag: {
+						value: "skyblock:jetpacks"
+					}
+				}
+			}]
+		}
+	]
+}

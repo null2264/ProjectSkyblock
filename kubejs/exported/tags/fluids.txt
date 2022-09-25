@@ -1,0 +1,96 @@
+To refresh this file, delete it and run /reload command again! Last updated: Sep 4, 2022, 8:58:36 AM
+
+#c:blood
+- fabricaeexnihilo:blood
+- fabricaeexnihilo:flowing_blood
+
+#c:biofuel
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#c:crude_oil
+
+#c:saltwater
+- fabricaeexnihilo:brine
+- fabricaeexnihilo:flowing_brine
+
+#c:creosote
+
+#fabricaeexnihilo:witchwater
+- fabricaeexnihilo:witchwater
+- fabricaeexnihilo:flowing_witchwater
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+- fabricaeexnihilo:witchwater
+- fabricaeexnihilo:flowing_witchwater
+- fabricaeexnihilo:blood
+- fabricaeexnihilo:flowing_blood
+- fabricaeexnihilo:brine
+- fabricaeexnihilo:flowing_brine
+- milk:flowing_milk?
+- milk:still_milk?
+
+#fabricaeexnihilo:hot
+- #fabricaeexnihilo:true_lava
+- techreborn:nitro_diesel?
+
+#c:plantoil
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#c:milk
+- fabricaeexnihilo:milk
+- fabricaeexnihilo:flowing_milk
+- milk:flowing_milk?
+- milk:still_milk?
+
+#c:tea
+- create:flowing_tea
+- create:tea
+
+#c:water
+- #minecraft:water?
+
+#c:ethanol
+- createaddition:flowing_bioethanol
+- createaddition:bioethanol
+
+#c:lava
+- #minecraft:lava?
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#create:bottomless/deny
+
+#fabricaeexnihilo:true_lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#c:honey
+- create:flowing_honey
+- create:honey
+
+#c:brine
+- #c:saltwater
+
+#create:bottomless/allow
+- minecraft:water
+- minecraft:lava
+
+#c:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#fabricaeexnihilo:true_water
+- minecraft:water
+- minecraft:flowing_water

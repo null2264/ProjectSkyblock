@@ -1,0 +1,13 @@
+name = "CobbleGen"
+filename = "cobblegen-v2.0b52.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qRogT5Gy/versions/jHwHqO40/cobblegen-v2.0b52.jar"
+hash-format = "sha1"
+hash = "e569a99f27ed951c531a0f1974ffad77d0613dbf"
+
+[update]
+[update.modrinth]
+mod-id = "qRogT5Gy"
+version = "jHwHqO40"
