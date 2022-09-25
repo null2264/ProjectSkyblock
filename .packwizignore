@@ -1,0 +1,11 @@
+/README.md
+*.DS_Store
+*.mrpack
+/LICENSE
+*.zip
+/assets/*
+/.vscode/*
+/.idea/*
+/docs/*
+/.idea/*
+/assets/*
