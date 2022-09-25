@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "a010c1bde6ac0dba1ece21416d99525b0cd20ed23625cea5d04a734b024e200e"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
@@ -18,6 +23,21 @@ metafile = true
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "21da451438c4b95811be685f967b800f0672ac0096bf9a4fc80e08db52902005"
+metafile = true
+
+[[files]]
+file = "mods/libre-exp-fix.pw.toml"
+hash = "6453f82b633c8d181650f4eef6b35c17a40a90cb60ba123248243fe0a4e6d338"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "028654bcb67c244e18ab0a528aae2d94479a752356231ba2b008aa5cea0e30f1"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "a9aa82a9ddc0cb17a9de92c68b5ab52e7301c947b28afeaa00be970bd3e41b71"
 metafile = true
 
 [[files]]
