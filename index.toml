@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
 file = "mods/cobblegen.pw.toml"
 hash = "fc7c4a49e3995a7d2ac4c41261670de8521dad745a21e4d9ce7f75278ceb90a6"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/skyblock-creator.pw.toml"
 hash = "9383a5d3de2a6554271852b71a8c64e5f11105260425538dfa8be0a61e9e0360"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
 metafile = true
 
 [[files]]
