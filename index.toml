@@ -394,11 +394,15 @@ hash = "f26a5c4d4412431b9dec8ef09f876fba78f8c9bb332b36565ee24d9f5c717f7e"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove.js"
-hash = "2fb423e46c3ae58d4b0f60f985120d20bfe93f1f68faacb95f49b6e7b48e3082"
+hash = "5af5aea7f769bfcb1ab8b5f9d1355d7dcca29cebb3284be8874bd0471f20b847"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/replace.js"
-hash = "1dcca61f7916e08f7e14945e489a54c97a03d39a20898044c90abc3b827e8e9c"
+hash = "06ef70632098eab09c4f5d35f8ba795988e6727893951b883a9a034837d6fd30"
+
+[[files]]
+file = "kubejs/server_scripts/skyblock.js"
+hash = "0e1cf31bcab7f2e8254057b1fd8566c896edb89e1ac4c959c956a23a55a7769d"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -481,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/skyblock-creator.pw.toml"
 hash = "9383a5d3de2a6554271852b71a8c64e5f11105260425538dfa8be0a61e9e0360"
+metafile = true
+
+[[files]]
+file = "mods/twerk.pw.toml"
+hash = "42ad4a4605685d9d1e0118de4b4df0fab6d9e419a4e35fd55209b69c9f2695e4"
 metafile = true
 
 [[files]]
