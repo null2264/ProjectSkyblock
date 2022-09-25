@@ -1,0 +1,11 @@
+name = "Create Addition"
+filename = "createaddition+1.18.2-20220914a.jar"
+side = "both"
+
+[download]
+url = "https://mediafiles.forgecdn.net/files/3989/197/createaddition%2B1.18.2-20220914a.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "md5"
+hash = "a0fb6970de4d7b970b24a98ae23d5bd4"

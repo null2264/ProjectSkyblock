@@ -434,6 +434,11 @@ hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "44f2c8795cabb2eeb40c66149f3aa7ba2e12da9c5f33bfd9a201b93607609f5a"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
 metafile = true
