@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "COPYING.md"
+hash = "a92a427d2b177b1d99faf752613339ae55a10cb3a1e65ab601434320fe0666a5"
+
+[[files]]
 file = "config/cobblegen.json5"
 hash = "b14d16d2eae9cd326e19ea1bb3718ea16399cc854609d84c1c400319665e70d6"
 
@@ -414,17 +418,17 @@ hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a010c1bde6ac0dba1ece21416d99525b0cd20ed23625cea5d04a734b024e200e"
+hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -434,7 +438,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "3d01384f400c6e27910f7a84f4c9d151798db7fe04c60082ace7942ee6e0c8db"
+hash = "8c34fca924fdd83cd25f10f53329725d711da0a594abb1f1294f5a8ab35821bc"
 metafile = true
 
 [[files]]
@@ -444,12 +448,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bec97cef087562af7a94221cc97acd4abe932a80d8ec979b73e3950ab9006806"
+hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
 metafile = true
 
 [[files]]
 file = "mods/fabricae-ex-nihilo.pw.toml"
-hash = "491f03fcc7d589345865f07ea90ffa4a2eb0c20b3019bfda2d799077ae2fc872"
+hash = "53367885884d81bc15ec211894a1e69ef2d8c79c93e4646bb1c6185f8d9b8eaf"
 metafile = true
 
 [[files]]
@@ -459,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "21da451438c4b95811be685f967b800f0672ac0096bf9a4fc80e08db52902005"
+hash = "0ceb43127b7106eb8ea4a3a92e20631facc5ef79d24315ae31a370507ec60b55"
 metafile = true
 
 [[files]]
@@ -479,22 +483,22 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "a9aa82a9ddc0cb17a9de92c68b5ab52e7301c947b28afeaa00be970bd3e41b71"
+hash = "59425a808037a8e66f39d063183bec0f9337c3b27bcf09404dada731d4cd83b9"
 metafile = true
 
 [[files]]
 file = "mods/skyblock-creator.pw.toml"
-hash = "9383a5d3de2a6554271852b71a8c64e5f11105260425538dfa8be0a61e9e0360"
+hash = "1dc0c9775f8f065667ada4b5f8c5c12e7978dc3d1aaaff95ee8f70a29f93c92b"
 metafile = true
 
 [[files]]
 file = "mods/twerk.pw.toml"
-hash = "42ad4a4605685d9d1e0118de4b4df0fab6d9e419a4e35fd55209b69c9f2695e4"
+hash = "83bb1f145f778c5f52ccd7e2a76285c99045e307085cb5ab36f547afd7895ed6"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d51ce9092dd3eea3016cf6ebad6624cb3a6fb7a13b22571abd9f702da53d6cdd"
+hash = "e9c8538c8a6ab6a67808a2eece408e4da0144dd47024a00c15ea226781143d59"
 metafile = true
 
 [[files]]
