@@ -453,12 +453,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricae-ex-nihilo.pw.toml"
-hash = "53367885884d81bc15ec211894a1e69ef2d8c79c93e4646bb1c6185f8d9b8eaf"
+hash = "263121ed3bbaee2b50b6e21811171b67000bb5b8c1941fd41870b860900a437c"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "7c2ae545f2d7bb0c2b4de7c1132a1afd8afafbe21d8e714d458199cda1f776a7"
+hash = "af47e7e8087d221f1e5b3d3e33c99ec9d0a0966d0b0d0378281f9ecb62a1ea7d"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "028654bcb67c244e18ab0a528aae2d94479a752356231ba2b008aa5cea0e30f1"
+hash = "a70764358501f7bb3505df73ca79f46251e1d0144287eae55c8cf49fd27492c8"
 metafile = true
 
 [[files]]
